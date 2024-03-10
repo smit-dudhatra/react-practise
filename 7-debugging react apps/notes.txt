@@ -1,0 +1,6 @@
+127
+react strict mode
+
+in react strict mode every component renders two times
+in production mode it is get disabled by default
+
